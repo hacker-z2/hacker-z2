@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hacker-z2
+- 👋 Hi, I’m @ArnoldBacon
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Python
 - 📫 How to reach me... pls don't
